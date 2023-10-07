@@ -32,7 +32,7 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "LazyDeveloper",
+            "value": "Cluster0",
             "required": false
         },
         "START_PIC": {
