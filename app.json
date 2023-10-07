@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "21750720"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "cae1a2a6e6c7341fdab17af55c24f75f"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
@@ -20,15 +20,15 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6540640686:AAHVmqMZZ0vYgSzvQGh-amOXTf8Qrj2k9cA"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split",
-            "value": ""
+            "value": "1981841257"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://apmoviesrequests:rename@cluster0.vvdix4a.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
