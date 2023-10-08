@@ -28,7 +28,7 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://apmoviesrequests:rename@cluster0.vvdix4a.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://apmoviesrequests:abhi143@cluster0.6nji9vo.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
