@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": "21750720"
+            "value": "29156648"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": "cae1a2a6e6c7341fdab17af55c24f75f"
+            "value": "48cccbe1161fe6e49baa705c019086d4"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
